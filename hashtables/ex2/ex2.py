@@ -4,6 +4,7 @@ class Ticket:
         self.source = source
         self.destination = destination
 
+#NOPE
 
 def reconstruct_trip(tickets, length):
     """
